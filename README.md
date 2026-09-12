@@ -77,7 +77,7 @@ I have a proven track record of delivering real-world technical solutions. I hav
 ### Past Projects
 
 #### 🏭 Azam Jaya Assets Micro-Management System
-*Web Application (TypeScript, PostgreSQL, Flespi)*
+*Web Application (TypeScript, PostgreSQL, Flespi, Next.js)*
 - Built a system to track the movement of company assets in real-time using specialised hardware.
 - Handled the full development process such as database design, backend logic, and UI.
 - Improved the system by fixing bugs and creating new data tables to store and manage asset information.
