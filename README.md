@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  **Final-Year CS Student @ UMS | Software Engineer | Cybersecurity Enthusiast**
+  **Software Engineer | Specialise in Agentic AI and Software Development | Cybersecurity Enthusiast**
 
   ![Profile Views](https://komarev.com/ghpvc/?username=mohammadhafiizzz&color=blueviolet&style=flat-square)
 
@@ -12,11 +12,11 @@
 
 Honours Computer Science graduate (Software Engineering) from **Universiti Malaysia Sabah (UMS)**, with a strong focus on **complex backend logic and scalable system design**.
 
-I have a proven track record of delivering real-world technical solutions — including system dashboards for **Azam Jaya**, web applications for the **Sabah Law Society**, and cross-platform solutions for **Ayuhouz**. I have solid knowledge of Object-Oriented Programming (OOP) and modern MVC frameworks, with a deep understanding of architecting high-performance applications. I'm a high-agility learner, adept at rapidly mastering new tech stacks and managing full-cycle project deployments.
+I have a proven track record of delivering real-world technical solutions. I have solid knowledge of Object-Oriented Programming (OOP) and modern MVC frameworks, with a deep understanding of architecting high-performance applications. I'm a high-agility learner, adept at rapidly mastering new tech stacks and managing full-cycle project deployments.
 
-- 🔭 **Working on:** MyCareX — secure health data interoperability (Final Year Project)
+- 🔭 **Working on:** MyCareX — secure health data interoperability
 - 🔐 **Focus:** Backend logic, scalable system design, secure coding, and cybersecurity
-- 🤝 **Leadership:** Experienced Team Leader for full-stack development teams
+- 🤝 **Leadership:** Experienced Team for full-stack development teams
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +79,7 @@ I have a proven track record of delivering real-world technical solutions — in
 #### 🏭 Azam Jaya Assets Micro-Management System
 *Web Application (TypeScript, PostgreSQL, Flespi)*
 - Built a system to track the movement of company assets in real-time using specialised hardware.
-- Handled the full development process — database design, backend logic, and UI.
+- Handled the full development process such as database design, backend logic, and UI.
 - Improved the system by fixing bugs and creating new data tables to store and manage asset information.
 
 #### 🏨 Ayuhouz Hotel Management System
@@ -100,17 +100,17 @@ I have a proven track record of delivering real-world technical solutions — in
 - Managed a development team to build a centralised tourism booking system for 5 islands within the Tun Mustapha Marine Park.
 
 #### 🛒 K' Supermarket Point of Sale (POS) System
-*Native Android Application (Kotlin) — Role: Team Leader & Main Programmer*
+*Native Android Application (Kotlin) | Role: Team Leader & Main Programmer*
 - Developed a native Android app to streamline supermarket checkout processes.
 - Programmed core backend logic for calculating sales totals, processing payments, and generating digital receipts.
 
 #### 🔒 IoT SmartLock System
-*IoT (Python, Raspberry Pi) — Role: Main Programmer & IoT Developer*
+*IoT (Python, Raspberry Pi) | Role: Main Programmer & IoT Developer*
 - Developed a SmartLock system using real-time face recognition for a smart door-locking mechanism.
 - Programmed real-time image processing scripts to authenticate users and trigger hardware locking.
 
 #### 🎮 Monster World AR Application
-*Mobile Application (C#, Unity, Vuforia Engine) — Role: Feature Developer (AR Texturing)*
+*Mobile Application (C#, Unity, Vuforia Engine) | Role: Feature Developer (AR Texturing)*
 - Created an interactive AR application where 2D hand-colored drawings are scanned and rendered as 3D models in real-time.
 - Used Vuforia image target recognition to bridge physical and digital worlds for educational gamification.
 
